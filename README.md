@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itd2902&label=Profile%20views&color=0e75b6&style=flat" alt="itd2902" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itd2902" alt="itd2902" /></a> </p>
-
 - 🔭 I’m currently working on [Ichiba Việt Nam](https://ichiba.vn/)
 
 - 🌱 I’m currently learning **I’m currently learning everything, but focus to React 🤣**

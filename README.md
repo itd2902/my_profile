@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on [Ichiba Việt Nam](https://ichiba.vn/)
 
-- 🌱 I’m currently learning **I’m currently learning everything, but focus to React 🤣**
-
-- 💬 Ask me about **.NET Core, Angular, React, JS**
-
-- 📫 How to reach me **adquang199x@gmail.com**
-
-- ⚡ Fun fact **I have a lit a bit of skill to play guitar**
+- 🌱 I’m currently learning **I’m currently learning everything to become a fullstack developer 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

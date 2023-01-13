@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning everything to become a fullstack developer 🤣
 
-<a href="https://app.daily.dev/itd2902"><img src="https://api.daily.dev/devcards/07cfe14eb0304b70855b324ae44827eb.png?r=dgq" width="400" alt="Nguyễn Xuân Quang's Dev Card"/></a>
-
 ## Connect with me ^_^ 
 
 - [Facebook](https://www.facebook.com/itd2902)

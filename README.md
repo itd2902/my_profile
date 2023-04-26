@@ -7,6 +7,15 @@
 
 - 🌱 I’m currently learning everything to become a fullstack developer 🤣
 
+## Statistics
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake animation](https://github.com/howznguyen/howznguyen/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  
+</div>
+
 ## Connect with me ^_^ 
 
 - [Facebook](https://www.facebook.com/itd2902)

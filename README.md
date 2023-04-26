@@ -13,5 +13,5 @@
 - [Linkedin](https://www.linkedin.com/in/quangnx99/)
 
 ## My GitHub Stats 😎
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=itd2902&theme=cobalt&show_icons=true)
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangnx99&theme=cobalt&show_icons=true)
 **1**

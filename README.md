@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itd2902&label=Profile%20views&color=0e75b6&style=flat" alt="itd2902" /> </p>
 
-- 🔭 I've been working on [Ichiba Việt Nam](https://ichiba.vn/) for over 4 years.
+- 🔭 I've been working at [Ichiba Việt Nam](https://ichiba.vn/) for over 4 years.
 
 - 🌱 Currently, I've been learning everyday to become a fullstack developer 🤣
 

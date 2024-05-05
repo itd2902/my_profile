@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Quang (.NET developer)</h1>
+<h1 align="center">Hi 👋, I'm Quang (.NET developer & a little bit of Devops)</h1>
 <h3 align="center">Thank for visiting to my GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itd2902&label=Profile%20views&color=0e75b6&style=flat" alt="itd2902" /> </p>
 
 - 🔭 I’m currently working on [Ichiba Việt Nam](https://ichiba.vn/)
 
-- 🌱 I’m currently learning everything to become a fullstack developer 🤣
+- 🌱 Currently, I've been learning everyday to become a fullstack developer 🤣
 
 ## Statistics
 

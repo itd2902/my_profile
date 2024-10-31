@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quang (.NET developer & a little bit of Devops)</h1>
+<h1 align="center">Hi 👋, I'm Quang (.NET developer & Devops)</h1>
 <h3 align="center">Thank for visiting to my GitHub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itd2902&label=Profile%20views&color=0e75b6&style=flat" alt="itd2902" /> </p>
